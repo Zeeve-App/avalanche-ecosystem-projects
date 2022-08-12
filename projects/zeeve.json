@@ -1,0 +1,19 @@
+{
+    "name": "Zeeve",
+    "slug": "zeeve",
+    "date": "2018-09-01",
+    "highlight": "Enterprise grade blockchain management to simplify your infrastructure needs for your web3 applications. Spawn your Avalanche nodes or get an RPC endpoint in a jiffy.",
+    "logo": "/img/zeeve.png",
+    "tags": ["security","infrastructure","nodes","enterprise"],
+    "status": "live",
+    "website": "https://zeeve.io/",
+    "twitter": "https://twitter.com/0xZeeve",
+    "summary": "Zeeve provides services which take care of the complexity of infrastructure management for you web3 applications. You can deploy, scale, monitor your blockchain nodes with your chosen hosting options. You can also get RPC endpoints without having to spawn any nodes. Zeeve also provides other services beneficial to Dapps such as IPFS and CI-CD automations for your projects.",
+    "telegram": "https://t.me/ZeeveDeeptech",
+    "discord": "https://discord.gg/xdDJCen4",
+    "docs":"https://zeeve.readthedocs.io/en/latest/",
+    "github":"",
+    "token":"",
+    "cmc":""
+}
+    
